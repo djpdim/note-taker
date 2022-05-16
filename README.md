@@ -6,11 +6,11 @@
 
 ## Link to the app
 
+Link to Heroku URL:[note-taker](https://notetakerdp.herokuapp.com)
+
 Link to the GitHub app:[note-taker](https://github.com/djpdim/note-taker)
 
 Link to the GitHub page:[note-taker](https://djpdim.github.io/note-taker/)
-
-Link to Heroku URL:[note-taker](https://notetakerdp.herokuapp.com)
 
 ## Tample of Content
 
@@ -23,19 +23,21 @@ Link to Heroku URL:[note-taker](https://notetakerdp.herokuapp.com)
 
 ## Installation
 
+-   The user should clone the repository from GitHub and download Node.js and Express.js.
+
 ![demogif](/public/assets/images/notetakerdemo.gif)
 
 Link to the [Demo.](https://drive.google.com/file/d/12jlgLhiPGQABMxYPPnyZP0a0ebvA6Su8/view)
 
--   The user should clone the repository from GitHub and download Node.js and Express.js.
-
 ## Usage
 
--   When the clone is complete, the user must run the app from the terminal with the call "npm start". Then go to the browser and type http://localhost:3001 and then enter. The page will load and will prompt the user to add a note. There is button for editing the note and delete any selected note.
+-   When the clone is complete, the user must run the app from the terminal with the call "npm start".
+-   Then go to the browser and type http://localhost:3001 and then enter. The page will load and will prompt the user to add a note.
+-   There is button for editing the note and delete any selected note.
 
 ## Credits
 
--   Tutors and TA's
+-   Tutor and TA's
 
 ## License
 
